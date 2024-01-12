@@ -19,3 +19,6 @@
     - Which month, on average, has the lowest atmospheric pressure? The highest?
     - How many terrestrial days exist in a Martian year? A visual estimate within 25% was made.
 ###### - The DataFrame was exported into a CSV file
+
+## References
+The Mars News website is operated by edX Boot Camps LLC for educational purposes only. The news article titles, summaries, dates, and images were scraped from NASA's Mars News website in November 2022. Images are used according to the JPL Image Use Policy, courtesy NASA/JPL-Caltech.
